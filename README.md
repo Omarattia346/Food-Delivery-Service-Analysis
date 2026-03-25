@@ -22,10 +22,16 @@ This project presents a Power BI analysis of a food delivery service, It analyze
 
 ---
 
-## 📈 Dashboards & Insights
+## 📈 Dashboards 
+
+### <img src="Images/Sales_Overview1.png" width="500">  <img src="Images/Sales_Overview2.png" width="500">
+### <img src="Images/Cost_Overview.png" width="500">  <img src="Images/Performance.png" width="500">
+
+---
+
+## 💬 Insights
 
 ### 💲 Sales Overview
-### <img src="Images/Sales_Overview1.png" width="500">  <img src="Images/Sales_Overview2.png" width="500">
 
 ### Key Insights :
 
@@ -33,10 +39,9 @@ This project presents a Power BI analysis of a food delivery service, It analyze
 * Performance over the month is unstable (noticeable  on Wednesdays and Fridays).
 * Some restaurants are loss-making, negatively impacting overall profitability.
 
---- 
+ ---
 
 ### 💸 Cost Overview
-### <img src="Images/Cost_Overview.png" width="600">
 
 ### Key Insights :
 
@@ -47,7 +52,6 @@ This project presents a Power BI analysis of a food delivery service, It analyze
 ---
 
 ### 🚀 Performance
-### <img src="Images/Performance.png" width="600">
 
 ### Key Insights :
 
