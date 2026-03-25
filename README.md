@@ -14,19 +14,20 @@ This project presents a Power BI analysis of a food delivery service, It analyze
 
 ---
 
-## 🛠️ Tools 
+## 🛠️ Steps & Tools 
 
-* Power Query (Data Cleaning & Transformation)
-* DAX (Measures, KPIs, and Calculations)
-* Power BI (Data Visualization & Dashboarding)
+* **Power Query** : Data cleaning and preparation.
+* **DAX** : Creation of calendar table and some columns and measures to support the analysis.
+* **Power BI** : Data Visualization & dashboarding.
 
 ---
 
-## 💲 Sales Overview
-### <img width="1326" height="715" alt="1" src="https://github.com/user-attachments/assets/4fbdf328-2d7d-4628-8721-94473cc24b40" />
-### <img width="1326" height="713" alt="2" src="https://github.com/user-attachments/assets/cc45818a-6bc9-48f1-ab11-e65e288dd97e" />
+## 📈 Dashboards & Insights
 
-## Key Insights
+### 💲 Sales Overview
+### <img src="Images/Sales_Overview1.png" width="500">  <img src="Images/Sales_Overview2.png" width="500">
+
+### Key Insights :
 
 * Strong total revenue and profit margins over the month indicate solid financial health.
 * Performance over the month is unstable (noticeable  on Wednesdays and Fridays).
@@ -34,10 +35,10 @@ This project presents a Power BI analysis of a food delivery service, It analyze
 
 --- 
 
-## 💸 Cost Overview
-### <img width="1326" height="714" alt="3" src="https://github.com/user-attachments/assets/b379f819-03d1-4b32-aaa1-d9b444ef76a7" />
+### 💸 Cost Overview
+### <img src="Images/Cost_Overview.png" width="600">
 
-## Key Insights
+### Key Insights :
 
 * Total refunds reached 22.6K, mainly driven by late deliveries.
 * Promo code discounts represent the majority of discount costs, yet deliver profitability similar to other discount types.
@@ -45,10 +46,10 @@ This project presents a Power BI analysis of a food delivery service, It analyze
 
 ---
 
-## 🚀 Performance
-### <img width="1325" height="712" alt="4" src="https://github.com/user-attachments/assets/8035c8a4-5bf1-4f23-a114-6f32a3b3de7d" />
+### 🚀 Performance
+### <img src="Images/Performance.png" width="600">
 
-## Key Insights
+### Key Insights :
 
 * Inconsistent ordering patterns.
 * Average delivery time is relatively high causing delivery performance inefficiency which leads to customer dissatisfaction and high refund rate.
@@ -58,8 +59,6 @@ This project presents a Power BI analysis of a food delivery service, It analyze
 ---
 
 ## 💡 Business Recommendations
-
-<img src="Images/Performance.png" width="600">
 
 * Apply targeted marketing campaigns to improve demand on low-performing days.
 * Re-evaluate underperforming restaurants and implement performance monitoring or quality standards.
