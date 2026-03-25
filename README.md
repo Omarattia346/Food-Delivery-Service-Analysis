@@ -60,8 +60,8 @@ This project presents a Power BI analysis of a food delivery service, It analyze
 
 ## 💡 Business Recommendations
 
-* Implement targeted marketing strategies to boost low-performing days.
-* Evaluate underperforming restaurants.
+* Apply targeted marketing campaigns to improve demand on low-performing days.
+* Re-evaluate underperforming restaurants and implement performance monitoring or quality standards.
 * Optimize delivery routes to reduce delivery time and increase drivers during peak hours.
 * Optimize discount strategies to protect profit margins.
 * Focus on customer retention through loyalty programs.
