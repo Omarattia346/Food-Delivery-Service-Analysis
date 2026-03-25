@@ -24,7 +24,7 @@ This project presents a Power BI analysis of a food delivery service, It analyze
 
 ## 📈 Dashboards 
 
-### <img src="Images/Sales_Overview1.png" width="450">  <img src="Images/Sales_Overview2.png" width="450"> <img src="Images/Cost_Overview.png" width="450">  <img src="Images/Performance.png" width="450">
+### <img src="Images/Sales_Overview1.png" width="500">  <img src="Images/Sales_Overview2.png" width="500"> <img src="Images/Cost_Overview.png" width="500">  <img src="Images/Performance.png" width="500">
 
 ---
 
