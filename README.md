@@ -39,7 +39,7 @@ This project presents a Power BI analysis of a food delivery service, It analyze
 
 ### Key Insights :
 
-* Strong total revenue and profit margins over the month indicate solid financial health.
+* Strong total revenue and profit margins over the month indicating solid financial health.
 * Performance over the month is unstable (noticeable  on Wednesdays and Fridays).
 * Some restaurants are loss-making, negatively impacting overall profitability.
 
